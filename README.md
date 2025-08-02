@@ -28,7 +28,7 @@ Aplikasi ini dibuat sebagai bagian dari **lomba Rekayasa Perangkat Lunak**, dan 
 
 ## 🧑‍💻 Tentang Proyek
 
-> Proyek ini merupakan hasil kerja siswa SMK *** Wiratama Rava Rahardian *** dalam mengikuti lomba Rekayasa Perangkat Lunak tahun 2025.
+> Proyek ini merupakan hasil karya siswa SMK bernama **Wiratama Rava Rahardian**
 
 Rekayasa Perangkat Lunak (RPL)  
 Tahun: 2025
